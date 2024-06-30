@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 📔 I’m currently working on uploading past and present projects to GitHub.
-- 🌱  I've been learning about: Markov chains
+- 🌱  I've been learning about: Python ML libraries, Markov chains
 - 🔭 Brushing up on: HTML & CSS, C
 - ⚡ Fun fact: Tapirs are born spotted, but lose these spots as they age.
